@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there 🍥👋
 
 - 📫 How to reach me UwU: just by opening an issue 🌼
 
 ## ⚡ Fun Facts
+### uhh, did someone say 'The Vibe Coding'? 🤔
 > 我几乎从来不用 AI 进行辅助开发或让它几乎直接参与我的任何项目代码 \
 > 除非是万不得已的情况（临时精神、身体问题但是不想丢失我的概念而只能先编写简易的快速原型）下 \
 > 我也会绝对确保在commit前把 AI 生成的所有代码都进行全面测试 \
